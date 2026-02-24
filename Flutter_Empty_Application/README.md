@@ -1,3 +1,1 @@
-# flutter_application_2
-
-A new Flutter project.
+En esta carpeta contiene el apk de la aplicacion creada desde cero con flutter para configurarla la interfaz y funcionamiento
